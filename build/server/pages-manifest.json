@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/cv": "pages/cv.html",
+  "/404": "pages/404.html",
+  "/": "pages/index.html",
+  "/_error": "pages/_error.js",
+  "/works/aivision": "pages/works/aivision.html",
+  "/works/auctionroom": "pages/works/auctionroom.html",
+  "/works/fashion": "pages/works/fashion.html",
+  "/works/largemon": "pages/works/largemon.html",
+  "/works/covidtracker": "pages/works/covidtracker.html",
+  "/works/monitoringstation": "pages/works/monitoringstation.html",
+  "/works/photography": "pages/works/photography.html",
+  "/works/whispr": "pages/works/whispr.html",
+  "/works/raincheck": "pages/works/raincheck.html",
+  "/works/quizsy": "pages/works/quizsy.html",
+  "/_document": "pages/_document.js",
+  "/works": "pages/works.html",
+  "/works/rechat": "pages/works/rechat.html",
+  "/works/recipeapp": "pages/works/recipeapp.html"
+}

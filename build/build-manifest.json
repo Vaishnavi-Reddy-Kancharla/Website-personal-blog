@@ -1,0 +1,123 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/X7N19rjG7x4gVJ8v-cc61/_buildManifest.js",
+    "static/X7N19rjG7x4gVJ8v-cc61/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/index-44b0c7a6607ad7bf.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/404-b4b227cd6501574f.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/_app-e017cd0589de95bd.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/cv": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/cv-5fb71c33522f6ca8.js"
+    ],
+    "/works": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works-cec404d231da24e2.js"
+    ],
+    "/works/aivision": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/aivision-553781f555507ebe.js"
+    ],
+    "/works/auctionroom": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/auctionroom-fe7800163e20245f.js"
+    ],
+    "/works/covidtracker": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/covidtracker-abc130c326047398.js"
+    ],
+    "/works/fashion": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/fashion-cb9d79faf9777982.js"
+    ],
+    "/works/largemon": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/largemon-3c47268e535f24b2.js"
+    ],
+    "/works/monitoringstation": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/monitoringstation-3bbab8ef4e06b8f2.js"
+    ],
+    "/works/photography": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/photography-59a4364be60d14a6.js"
+    ],
+    "/works/quizsy": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/quizsy-19c0956bcc817cc8.js"
+    ],
+    "/works/raincheck": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/raincheck-916dc5c55fe895e9.js"
+    ],
+    "/works/rechat": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/rechat-a648b47b1a699066.js"
+    ],
+    "/works/recipeapp": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/recipeapp-3269c73f91bc346e.js"
+    ],
+    "/works/whispr": [
+      "static/chunks/webpack-24780b5468e42e63.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-23ac4c51199e1ad0.js",
+      "static/chunks/pages/works/whispr-d63c230d05db8261.js"
+    ]
+  },
+  "ampFirstPages": []
+}
